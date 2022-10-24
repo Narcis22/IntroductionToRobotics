@@ -21,7 +21,7 @@ Introduction to Robotics laboratory homeworks, 3rd year at the Faculty of Matema
 ![Robotics_Homework_1_setup_1](https://user-images.githubusercontent.com/62501946/197394483-a79f9cf6-b6f3-4325-b838-ec25472c7c68.jpg)
 
 <i><b>Video with working model:</b></i>
-![Go to video on Youtube](https://www.youtube.com/watch?v=gRUL80wEv6I&ab_channel=NarcisNecula)
+https://www.youtube.com/watch?v=gRUL80wEv6I&ab_channel=NarcisNecula
 ### 📕Homework 2️⃣
 
  > <i>TBD</i>
