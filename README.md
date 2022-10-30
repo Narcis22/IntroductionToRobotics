@@ -46,3 +46,17 @@ Introduction to Robotics laboratory homeworks, 3rd year at the Faculty of Matema
 
 
 </details>
+
+<details>
+<summary>📕Homework 3️⃣</summary>
+<br>
+
+ > TBD
+ 
+![Homework_not_found](https://user-images.githubusercontent.com/62501946/198888759-e419866f-99fa-4ebb-8b61-47aef8e703dd.png)
+
+<i><b>Video with working model:</b></i>
+[Go to youtube to see video.](ADD LINK!)
+ 
+
+</details>
