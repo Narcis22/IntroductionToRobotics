@@ -7,7 +7,7 @@ Introduction to Robotics laboratory homeworks, 3rd year at the Faculty of Matema
 ### 📗Homework 0️⃣
 <br>
 
- > ✅<i>Install Arduino and create this repository.☝️</i> <br>
+ > <i>Install Arduino and create this repository.☝️</i> <br>
 
 <details>
 <summary><i><b>Setup photos</b></i></summary>
@@ -21,7 +21,7 @@ Introduction to Robotics laboratory homeworks, 3rd year at the Faculty of Matema
 ### 📗Homework 1️⃣
 <br>
 
- > ✅RGB LED
+ > RGB LED
  
 <i><b>Task:</b></i> Use a separate potentiometer in controlling each of the color of the RGB led (Red, Green and Blue). The control must be done with digital electronics (aka you must read the value of the potentiometer with Arduino, and write a mapped value to each of the pins connected to the led).
 
@@ -92,7 +92,7 @@ void setColor(int redValue, int greenValue, int blueValue) {
 ### 📗Homework 2️⃣
 <br>
 
- > ✅Crosswalk - 🚦🚸
+ > Crosswalk - 🚦🚸
  
  <i><b>Task:</b></i> Create a crosswalk system which acts like a regular one after pressing the pedestrian button. So, after the button is pressed, a timer starts and after eight seconds the lights start turning yellow and then red for the vehicles and green for pedestrians accompanied by a buzzer. After ten seconds of green light for the pedestrians, the light starts blinking and the buzzing intensifies for five seconds after which it turns back red and the traffic light turns green and the whole process can be started again.
 
