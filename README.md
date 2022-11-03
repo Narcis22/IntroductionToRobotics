@@ -295,7 +295,7 @@ void applyState4(){
 </details>
 
 <i><b>Video with working model: </b></i>
-[Go to youtube to see video.](ADD LINK!)
+[Go to youtube to see video.](https://youtu.be/yUhXWoTgpPg)
  
 ### 📕Homework 3️⃣
 <br>
