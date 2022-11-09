@@ -66,7 +66,7 @@ Introduction to Robotics laboratory homeworks, 3rd year at the Faculty of Matema
 <i><b>Video with working model: </b></i>
 [Go to youtube to see video.](https://youtu.be/yUhXWoTgpPg)
  
-### 📘Homework 3️⃣
+### 📗Homework 3️⃣
 <br>
 
  > Joystick mania 🕹️
