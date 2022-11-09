@@ -23,7 +23,7 @@ Introduction to Robotics laboratory homeworks, 3rd year at the Faculty of Matema
 
  > RGB LED
  
-<i><b>Task:</b></i> Use a separate potentiometer in controlling each of the color of the RGB led (Red, Green and Blue). The control must be done with digital electronics (aka you must read the value of the potentiometer with Arduino, and write a mapped value to each of the pins connected to the led).
+<i><b>Task:</b></i> I used a separate potentiometer in controlling each of the color of the RGB led (Red, Green and Blue). The control was done with digital electronics (aka I had to read the value of the potentiometer with Arduino, and write a mapped value to each of the pins connected to the led).
 
 <details>
 <summary><i><b>Code</b></i></summary>
@@ -94,7 +94,7 @@ void setColor(int redValue, int greenValue, int blueValue) {
 
  > Crosswalk - 🚦🚸
  
- <i><b>Task:</b></i> Create a crosswalk system which acts like a regular one after pressing the pedestrian button. So, after the button is pressed, a timer starts and after eight seconds the lights start turning yellow and then red for the vehicles and green for pedestrians accompanied by a buzzer. After ten seconds of green light for the pedestrians, the light starts blinking and the buzzing intensifies for five seconds after which it turns back red and the traffic light turns green and the whole process can be started again.
+ <i><b>Task:</b></i> I created a crosswalk system which acts like a regular one after pressing the pedestrian button. So, after the button is pressed, a timer starts and after eight seconds the lights start turning yellow and then red for the vehicles and green for pedestrians accompanied by a buzzer. After ten seconds of green light for the pedestrians, the light starts blinking and the buzzing intensifies for five seconds after which it turns back red and the traffic light turns green and the whole process can be started again.
 
 
 <details>
@@ -297,11 +297,22 @@ void applyState4(){
 <i><b>Video with working model: </b></i>
 [Go to youtube to see video.](https://youtu.be/yUhXWoTgpPg)
  
-### 📕Homework 3️⃣
+### 📘Homework 3️⃣
 <br>
 
- > TBD
+ > Joystick mania 🕹️
  
-![Homework_not_found](https://user-images.githubusercontent.com/62501946/198888759-e419866f-99fa-4ebb-8b61-47aef8e703dd.png)
+ I use the joystick to control the position ofthe segment and ”draw” on the display. The movement between segmentsshould be natural (meaning they should jump from the current positiononly to neighbors, but without passing through ”walls”).
 
+<details>
+<summary> <i><b>Setup photos</b></i> </summary>
+</br></br>
 
+![Pic_1](https://user-images.githubusercontent.com/62501946/200411177-2550916e-884f-402b-b0b5-5fce9ec33f24.png)
+![Pic_2](https://user-images.githubusercontent.com/62501946/200412244-4736085b-715f-4678-b716-88460aae6d05.png)
+![Pic_3](https://user-images.githubusercontent.com/62501946/200411191-bdce90f7-25cc-4eee-802b-0bf4156585d7.png)
+
+</details>
+
+<i><b>Video with working model: </b></i>
+[Go to youtube to see video.](https://youtu.be/iD5Ntl5qufo)
