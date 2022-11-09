@@ -73,6 +73,10 @@ Introduction to Robotics laboratory homeworks, 3rd year at the Faculty of Matema
  
  I use the joystick to control the position ofthe segment and ”draw” on the display. The movement between segmentsshould be natural (meaning they should jump from the current positiononly to neighbors, but without passing through ”walls”).
 
+
+ [<i><b>Code</b></i>](https://github.com/Narcis22/IntroductionToRobotics/blob/main/Homework_3_JoystickMania/Homework_3_JoystickMania.ino)
+
+
 <details>
 <summary> <i><b>Setup photos</b></i> </summary>
 </br></br>
