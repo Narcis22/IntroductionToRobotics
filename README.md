@@ -98,12 +98,17 @@ Introduction to Robotics laboratory homeworks, 3rd year at the Faculty of Matema
 I use the joystick to move through the 4 digit 7 segment displays digits, press the button to lock in on the current digit and use the other axis to increment or decrement the number. Keep the button pressed to reset all the digit values and the current position to the first digit in the first state.
 The selected display is indicated by the digit point of the respective display, blinking if the display is not loked in or solid for the loked in mode.
 
- [<i><b>Code</b></i>]()
+ [<i><b>Code</b></i>](https://github.com/Narcis22/IntroductionToRobotics/blob/main/Homework_4_DisplayMadness/Homework_4_DisplayMadness.ino)
 
 
 <details>
 <summary> <i><b>Setup photos</b></i> </summary>
 </br></br>
+
+![setup_pic_1](https://user-images.githubusercontent.com/62501946/201536662-23cc25a2-1231-4a57-97a4-90dda6ee113f.png)
+
+![setup_pic_2](https://user-images.githubusercontent.com/62501946/201536594-4b4f2388-fdff-44bf-bf9c-8d1b94955c0d.png)
+
 
 </details>
 
