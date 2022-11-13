@@ -89,3 +89,24 @@ Introduction to Robotics laboratory homeworks, 3rd year at the Faculty of Matema
 
 <i><b>Video with working model: </b></i>
 [Go to youtube to see video.](https://youtu.be/iD5Ntl5qufo)
+
+### 📗Homework 4️⃣
+<br>
+
+ > Display madness  ![favicon-16x16](https://user-images.githubusercontent.com/62501946/201535390-70965b26-ee0b-4216-ba4a-523726bd1025.png)![favicon-16x16](https://user-images.githubusercontent.com/62501946/201535393-4b607354-914e-438b-8b5a-fae12af6e266.png)![favicon-16x16](https://user-images.githubusercontent.com/62501946/201535395-d29cf16b-9ce5-4e9e-80cd-d7c00eadc6e8.png)![favicon-16x16](https://user-images.githubusercontent.com/62501946/201535397-81569f3e-619f-4b91-8796-b4355746a06f.png)🕹️
+
+I use the joystick to move through the 4 digit 7 segment displays digits, press the button to lock in on the current digit and use the other axis to increment or decrement the number. Keep the button pressed to reset all the digit values and the current position to the first digit in the first state.
+The selected display is indicated by the digit point of the respective display, blinking if the display is not loked in or solid for the loked in mode.
+
+ [<i><b>Code</b></i>]()
+
+
+<details>
+<summary> <i><b>Setup photos</b></i> </summary>
+</br></br>
+
+</details>
+
+<i><b>Video with working model: </b></i>
+[Go to youtube to see video.]()
+
