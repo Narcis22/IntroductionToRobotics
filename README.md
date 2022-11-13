@@ -113,5 +113,5 @@ The selected display is indicated by the digit point of the respective display, 
 </details>
 
 <i><b>Video with working model: </b></i>
-[Go to youtube to see video.](https://youtube.com/shorts/ku1tCb8eOXk?feature=share)
+[Go to youtube to see video.](https://youtu.be/-RtheO9I-Wk)
 
