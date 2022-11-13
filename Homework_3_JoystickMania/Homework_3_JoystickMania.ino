@@ -50,8 +50,8 @@ const int debounceDelay = 50;
 const int blinkInterval = 400;
 
 unsigned long lastBlinkTime = 0;
-unsigned long pressedTime;
-unsigned long releasedTime;
+unsigned long pressTime;
+unsigned long releaseTime;
 unsigned long noPresses = 0;
 
 const int longPressTreshold = 1000;
@@ -312,12 +312,12 @@ void buttonChangeState() {
     if (stateSW != switchState) {
       switchState = stateSW;
       if (switchState == LOW)
-        pressedTime = millis();
+        pressTime = millis();
       else
-        releasedTime = millis();
+        releaseTime = millis();
 
-      long pressDuration = releasedTime - pressedTime;
-      if (pressDuration > longPressTreshold and currentState == 1)
+      long pressDuration = releaseTime - pressTime;
+      if (pressDuration > longPressTreshold && currentState == 1)
         resetLeds();
       else if (pressDuration > shortPressTreshold) {
         noPresses ++;
