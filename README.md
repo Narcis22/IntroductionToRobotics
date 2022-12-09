@@ -128,6 +128,13 @@ This is a simplified version of the game Snake (the snake doesn't grow when eati
 <details>
 <summary> <i><b>Setup photos</b></i> </summary>
 </br></br>
+![20221209_051511](https://user-images.githubusercontent.com/62501946/206619201-626ed73b-bef1-459e-985c-6d0a9dc7f165.jpg)
+
+![20221209_051524](https://user-images.githubusercontent.com/62501946/206619212-25e09526-c25a-4acb-9fa7-b91bd8ba1703.jpg)
+
+![20221209_051551](https://user-images.githubusercontent.com/62501946/206619217-9a94b08c-65b1-4cf6-8e1e-563cbf709c6e.jpg)
+
+![20221209_051616](https://user-images.githubusercontent.com/62501946/206619224-321d1545-9101-47ad-a63f-bdb52db8c63a.jpg)
 
 </details>
 
