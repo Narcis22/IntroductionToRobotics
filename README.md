@@ -122,7 +122,7 @@ The selected display is indicated by the digit point of the respective display, 
 
 This is a simplified version of the game Snake (the snake doesn't grow when eating apples and the demo stopps at 10 points). This is the first step of making my own game and is here to show the menu control and functionalities.
 
- [<i><b>Code</b></i>]()
+ [<i><b>Code</b></i>](https://github.com/Narcis22/IntroductionToRobotics/blob/main/Homework_5_Snek/Homework_5_Snek.ino)
 
 
 <details>
