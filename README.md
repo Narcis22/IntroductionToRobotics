@@ -115,3 +115,21 @@ The selected display is indicated by the digit point of the respective display, 
 <i><b>Video with working model: </b></i>
 [Go to youtube to see video.](https://youtu.be/-RtheO9I-Wk)
 
+### 📗Homework 5️⃣
+<br>
+
+ > Snek 🐍🍎
+
+This is a simplified version of the game Snake (the snake doesn't grow when eating apples and the demo stopps at 10 points). This is the first step of making my own game and is here to show the menu control and functionalities.
+
+ [<i><b>Code</b></i>]()
+
+
+<details>
+<summary> <i><b>Setup photos</b></i> </summary>
+</br></br>
+
+</details>
+
+<i><b>Video with working model: </b></i>
+[Go to youtube to see video.](https://youtu.be/yfGVG3hl76I)
